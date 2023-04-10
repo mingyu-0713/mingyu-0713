@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?=flat&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
 </div>
 <br>
 <div align=center>
